@@ -1,0 +1,10 @@
+{
+    "name": "pbudner/neural",
+    "authors": [
+        {
+            "name": "Piotr Budner",
+            "email": "dev2death@gmail.com"
+        }
+    ],
+    "require": {}
+}
