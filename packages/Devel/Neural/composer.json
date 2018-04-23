@@ -1,0 +1,17 @@
+{
+  "name": "devel/neural",
+  "description": "My test package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dev2death",
+      "email": "dev2death@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Devel\\Neural\\": "src/"
+    }
+  }
+}
